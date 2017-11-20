@@ -75,3 +75,5 @@ typings/
 .idea
 .idea/*
 my-angularJS.iml
+node_modules
+
